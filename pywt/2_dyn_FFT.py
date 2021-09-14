@@ -2,6 +2,9 @@
 """
 Created on Fri Aug  7 23:48:57 2020
 
+This part is used to conduct Fast Fourier Transform (FFT), to analyze the signal characteristics in the frequency domain.
+the core function is signalfft
+
 @author: lwjnn
 """
 
