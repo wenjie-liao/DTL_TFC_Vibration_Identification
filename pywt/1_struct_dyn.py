@@ -3,7 +3,7 @@
 Created on Tue Aug  4 08:55:17 2020
 
 This part is used to deal with the structural dynamic response.
-read the response from Excel and rewrite the acceleration data to text in another format, and plot the corresponding figure。
+read the response from Excel and rewrite the acceleration data to text in another format, and plot the corresponding figure
 
 @author: 12437
 """
