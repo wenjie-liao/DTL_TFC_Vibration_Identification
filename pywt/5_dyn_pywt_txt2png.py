@@ -1,4 +1,11 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Sat Aug  8 14:08:43 2020
+
+This part is used to plot the time-frequency characteristic matrix to the corresponding wavelet figure.
+
+@author: lwjnn
+"""
 
 import os
 import matplotlib.pyplot as plt
