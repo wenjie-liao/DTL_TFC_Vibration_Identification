@@ -2,6 +2,9 @@
 """
 Created on Sat Aug  8 01:24:05 2020
 
+This part is used to conduct short-time energy analysis, to obtain the signal characteristics in the energy domain.
+the core function is calEnergy
+
 @author: lwjnn
 """
 
