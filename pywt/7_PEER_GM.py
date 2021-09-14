@@ -2,6 +2,8 @@
 """
 Created on Fri Aug 14 17:54:19 2020
 
+This part is used to deal with the raw ground motions downloaded from PEER, maybe useful, [emoji]
+
 @author: 12437
 """
 import shutil,os
