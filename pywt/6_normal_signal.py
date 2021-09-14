@@ -2,6 +2,8 @@
 """
 Created on Sat Aug  8 22:09:51 2020
 
+This part is used to deal with normal signals, not useful, [emoji]
+
 @author: lwjnn
 """
 
