@@ -2,6 +2,9 @@
 """
 Created on Sat Aug  8 14:08:43 2020
 
+This part is used to equivalently simulate collected signals considering the noise of the phone sensor.
+the noise file can be obtained by the smartphone.
+
 @author: lwjnn
 """
 
