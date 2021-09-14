@@ -3,7 +3,7 @@
 Created on Sat Aug  8 14:08:43 2020
 
 This part is used to conduct wavelet transform analysis, to get the signal characteristics in the time-frequency domain.
-The core function is signal_pywt.
+The core function is signal_pywt. The output is the time-frequency matrix saved in the .txt file
 More information about pywt package can be found in https://pywavelets.readthedocs.io/en/latest/
 
 @author: lwjnn
