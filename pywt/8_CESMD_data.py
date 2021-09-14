@@ -2,6 +2,8 @@
 """
 Created on Thu Sep 17 10:03:42 2020
 
+This part is used to deal with the raw ground motions downloaded from CESMD, maybe useful, [emoji]
+
 @author: lwjlalala
 """
 
