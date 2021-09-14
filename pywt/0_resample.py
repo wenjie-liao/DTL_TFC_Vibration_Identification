@@ -2,6 +2,9 @@
 """
 Created on Mon Jan  4 13:04:36 2021
 
+This part is used to resample the signal, if needed.
+down-sample or up-sample
+
 @author: Administrator
 """
 
